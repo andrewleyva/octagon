@@ -54,7 +54,8 @@
     "semantic-ui": "^2.2.6",
     "standard": "^9.0.0",
     "storybook-host": "^1.0.7",
-    "url": "^0.11.0"
+    "url": "^0.11.0",
+    "element-resize-event": "^2.0.7"
   },
   "dependencies": {
     "d3": "^4.4.0",
