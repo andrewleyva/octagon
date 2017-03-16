@@ -37,7 +37,7 @@
     "perish": "^1.0.1",
     "pify": "^2.3.0",
     "postcss-cli": "^3.0.0-beta",
-    "postcss-cssnext": "^2.8.0",
+    "postcss-cssnext": "^2.10.0",
     "postcss-import": "^9.1.0",
     "postcss-loader": "^1.1.0",
     "postcss-neat": "^2.5.2",
