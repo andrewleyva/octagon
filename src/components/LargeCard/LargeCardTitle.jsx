@@ -3,7 +3,7 @@ import Flexbox from 'flexbox-react'
 
 const LargeCardTitle = (props) => {
   return (
-    <Flexbox flexGrow={3} flexDirection='column'>
+    <Flexbox flexGrow={3} flexDirection='column' {...props}>
       <div className='title'>{props.title}</div>
       <div className='text-small textGray'>{props.description}</div>
     </Flexbox>
