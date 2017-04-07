@@ -44,7 +44,7 @@
     "postcss-neat": "^2.5.2",
     "react-remarkable": "^1.1.1",
     "react-styleguidist": "beta",
-    "react-test-renderer": "^15.4.0",
+    "react-test-renderer": "^15.5.1",
     "ripcord": "^1.1.1",
     "rucksack-css": "^0.9.1",
     "semantic-release": "^6.3.2",
